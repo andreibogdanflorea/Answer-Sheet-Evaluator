@@ -7,7 +7,7 @@ Project based on Letter Recognition for automatically grading students' Answer S
 - sklearn
 - pandas
 - numpy
-- PILLOW
+- Pillow
 - opencv-python
 - emnist
 - matplotlib
